@@ -1,4 +1,4 @@
-# PiDayToolkitTemplate
+# Pi Day Toolkit Template
 This contains a LaTeX file that is a companion to my MAA FOCUS Toolkit column article about a Pi Day activity.
 
 Feel free to download and use the file "PiDayTemplate.tex". In the top 7 lines, you will find three options to change:
